@@ -69,9 +69,14 @@ pip install pandas pyodbc matplotlib statsmodels
 
 ## Visualizations
 
+![Pie-Chart](https://github.com/user-attachments/assets/b60d9016-f8cb-4b25-89a1-95556c81a7d7)
+
+![Line Graph](https://github.com/user-attachments/assets/79009d09-1479-470d-b491-896667ff4171)
+![Histogram (PPG)](https://github.com/user-attachments/assets/54b0e42a-8b79-4eb5-b898-2d36ffdc72f4)
 
 
-## Author
+## Author![Uploading Line Graph.png…]()
+
 
 **Satkar Karki**[LinkedIn](https://www.linkedin.com/in/satkarkarki)[GitHub](https://github.com/satkar605)
 
