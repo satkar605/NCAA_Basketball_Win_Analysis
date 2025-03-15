@@ -62,19 +62,14 @@ pip install pandas pyodbc matplotlib statsmodels
 
 ## Key Findings
 
-- **Winning Probability**: Teams leading at half-time had a `XX%` chance of winning.
+- **Winning Probability**: Teams leading at half-time had a 77% chance of winning.
 - **Highest Scoring Team**: `Providence` scored the most points across all games.
 - **Lowest Scoring Team**: `Stanislaus St.` had the fewest points in total.
 - **Regression Analysis**: There is a strong correlation between total points scored and winning percentage.
 
 ## Visualizations
 
-1. **Win vs Loss Probability for 1st Half Leaders**2. **Comparison of Total Points: Fewest vs. Most**
-## Future Improvements
 
-- Enhance model prediction using machine learning.
-- Incorporate real-time game data.
-- Add player-level statistics for deeper analysis.
 
 ## Author
 
